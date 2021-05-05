@@ -1,5 +1,5 @@
 Flask==1.1.2
-ChatterBot==1.0.8
+ChatterBot==1.0.5
 blis==0.2.4
 certifi==2019.11.28
 chardet==3.0.4
